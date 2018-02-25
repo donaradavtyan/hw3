@@ -17,3 +17,7 @@
 
  [Доступ к таблице](https://docs.google.com/spreadsheets/d/1TF0AuGcIFA-4vxSOcAf9546AXdTIK8SZmw4StTMfMgU/edit?usp=sharing)
  
+
+**Обновление**
+
+[Шаг 3](https://github.com/donaradavtyan/hw4) находится в репозитории hw4
